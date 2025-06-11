@@ -22,7 +22,4 @@ A simple chat application built using Node.js, Express, MongoDB, and EJS templat
 - **EJS** for server-side rendering
 - **HTML/CSS** (basic styling)
 
----
-
-## 📂 Folder Structure
 
